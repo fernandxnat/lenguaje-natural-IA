@@ -24,6 +24,6 @@ Para cada artículo revisado, se identificó y recolectó la siguiente informaci
  * Nombre del conjunto de datos y referencia, si la hay.
  * ¿Datos reales o sintéticos?
  * Breve descripción de los datos
- * ¿El conjunto de datos es creado/usado por primera vez por los autores?
- * ¿Los datos están a disposición del público? ¿se pueden descargar?
+ * ¿El conjunto de datos es creado/usado por primera vez por los autores? (0/1)
+ * ¿Los datos están a disposición del público? ¿se pueden descargar? (Si ningún conjunto de datos o conjuntos es creado/utilizado por primera vez por los autores se coloca un      "no aplica", en el caso contrario se pone un 1 en el lugar de el conjunto que si esta disponible piublicamente)
  * URL de los datos 
